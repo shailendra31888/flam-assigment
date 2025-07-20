@@ -15,7 +15,7 @@ This project creates **realistic image composites** by placing a person into a b
 
 | Person Image | Background Image | Final Output |
 |--------------|------------------|---------------|
-| ![](chart.jpg) | ![](back.jpg) | ![](final.jpg) |
+| ![](person.jpg) | ![](back.jpg) | ![](final.jpg) |
 
 ---
 
@@ -23,7 +23,7 @@ This project creates **realistic image composites** by placing a person into a b
 
 The entire process is summarized in the diagram below:
 
-![Compositing Flowchart](person.png)
+![Compositing Flowchart](chart1.jpg)
 
 > 📌 *The flowchart shows major steps: background removal → light estimation → shadow generation → blending → refinement.*
 
