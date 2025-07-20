@@ -29,24 +29,7 @@ The entire process is summarized in the diagram below:
 
 ---
 
-## ⚙️ How It Works (Key Steps)
 
-- 🔍 **Background Removal**: Cut the person from the original image using `rembg`.
-- 💡 **Light Estimation**: Analyze lighting in `back.png` to set correct shadow direction.
-- 🖤 **Shadow Generation**: Use **ShadowGAN** to generate a shadow from the person’s mask.
-- 🧵 **Blending**: Paste the cutout on the background with shadow, using alpha blending.
-- ✨ **Refinement**: Smooth edges with feathering for a more natural look.
-
----
-
-## 💡 Tech Stack
-
-- Python + OpenCV + NumPy
-- rembg (background removal)
-- Mask ShadowGAN (shadow synthesis)
-- PIL (for image manipulation)
-
----
 
 ## 📁 Files in Repo
 
