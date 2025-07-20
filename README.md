@@ -15,7 +15,7 @@ This project creates **realistic image composites** by placing a person into a b
 
 | Person Image | Background Image | Final Output |
 |--------------|------------------|---------------|
-| ![](chart.jpg) | ![](back.jpg) | ![](final_composite.jpg) |
+| ![](chart.jpg) | ![](back.jpg) | ![](final.jpg) |
 
 ---
 
